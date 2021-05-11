@@ -140,8 +140,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`user_id`, `firstname`, `lastname`, `username`, `username2`, `birthday`, `gender`, `number`, `email`, `email2`, `password`, `password2`, `profile_picture`, `cover_picture`) VALUES
-(5, 'Janvi', 'Madhu', 'janvimadhu06', 'janvimadhu', '2000-10-25', 'Female', '9992904060', 'ceccse.1802058@gmail.com', 'ceccse.1802058@gmail.com', 'jashan', 'jashan', 'upload/PhotoGrid_1542303569818.jpg', 'upload/PhotoGrid_1542303625356.jpg'),
-(6, 'Jashandeep', 'Dingh', 'jashandeep', 'jashandeep', '1/January/2000', 'male', '7056200450', 'csecec.1802060@gmail.com', 'csecec.1802060@gmail.com', 'jashandeepsingh', 'jashandeepsingh', 'upload/pp.jpg', 'upload/ppp.PNG');
+(5, 'Janvi', 'Madhu', 'janvimadhu06', 'janvimadhu', '2000-10-25', 'Female', '9992967589', 'ceccse.1802058@gmail.com', 'ceccse.1802058@gmail.com', 'jashan', 'jashan', 'upload/PhotoGrid_1542303569818.jpg', 'upload/PhotoGrid_1542303625356.jpg'),
+(6, 'Jashandeep', 'Dingh', 'jashandeep', 'jashandeep', '1/January/2000', 'male', '7056278906', 'csecec.1802060@gmail.com', 'csecec.1802060@gmail.com', 'jashandeepsingh', 'jashandeepsingh', 'upload/pp.jpg', 'upload/ppp.PNG');
 
 --
 -- Indexes for dumped tables
